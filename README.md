@@ -7,3 +7,4 @@ In this project, a linear programming optimization model was formulated to selec
 - Demand at each of the locations.
 
 The linear programming model finds the optimum locations for opening the plants with the objective of minimizing cost while fulfilling the capacity and demand constraints.
+![Conceptual Model](https://github.com/vubanc/SupplyChainOptimization/assets/108584512/e2b9d309-658c-456f-8f9b-f6dc09521dbf)
